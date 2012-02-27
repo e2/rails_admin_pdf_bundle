@@ -1,0 +1,12 @@
+en:
+  admin:
+    pdf_bundle:
+      confirmation: "Generate PDF"
+    actions:
+      pdf_bundle:
+        title: "Pdf Bundle"
+        menu: "Pdf Bundle for %{model_label} '%{object_label}'"
+        breadcrumb: "Pdf Bundle"
+        link: "Pdf Bundle"
+        bulk_link: "Pdf Bundle selected %{model_label_plural}"
+        done: "Pdf Bundled"
