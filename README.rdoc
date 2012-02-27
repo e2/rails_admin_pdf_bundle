@@ -1,0 +1,5 @@
+= RailsAdminPdfBundle
+
+Allows bulk exports to a single PDF
+
+Uses MIT-LICENSE.
